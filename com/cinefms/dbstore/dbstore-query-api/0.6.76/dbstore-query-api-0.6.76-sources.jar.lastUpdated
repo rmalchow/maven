@@ -1,6 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Mar 29 12:38:47 CST 2016
-@default-skjlls-oss-release-https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.lastUpdated=1459226313520
-https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.error=Could not transfer artifact com.cinefms.dbstore\:dbstore-query-api\:jar\:sources\:0.6.76 from/to skjlls-oss-release (https\://infra.skjlls.com/nexus/content/repositories/releases-oss)\: infra.skjlls.com\: unknown error
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1459226327182
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.cinefms.dbstore\:dbstore-query-api\:jar\:sources\:0.6.76 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

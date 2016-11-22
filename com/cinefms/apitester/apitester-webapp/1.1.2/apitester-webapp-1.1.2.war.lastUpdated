@@ -1,7 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Dec 01 10:33:55 CST 2015
-http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/fg-release/.error=Could not transfer artifact com.cinefms.apitester\:apitester-webapp\:war\:1.1.2 from/to fg-release (http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/fg-release/)\: Access denied to http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/fg-release/com/cinefms/apitester/apitester-webapp/1.1.2/apitester-webapp-1.1.2.war. Error code 401, Unauthorized
-@default-fg-release-http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/fg-release/.lastUpdated=1448937216741
-http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/thirdparty/.error=Could not transfer artifact com.cinefms.apitester\:apitester-webapp\:war\:1.1.2 from/to fg-thirdparty (http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/thirdparty/)\: Access denied to http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/thirdparty/com/cinefms/apitester/apitester-webapp/1.1.2/apitester-webapp-1.1.2.war. Error code 401, Unauthorized
-@default-fg-thirdparty-http\://mc-dcpek-nexus-01-live.mc.mcon.net\:8081/content/repositories/thirdparty/.lastUpdated=1448937216797
-https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.lastUpdated=1448937235711
