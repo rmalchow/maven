@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 22 10:40:55 CST 2016
+@default-skjlls-oss-release-https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.lastUpdated=1469155241840
+https\://repo.maven.apache.org/maven2/.lastUpdated=1469155255631
+https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.error=Could not transfer artifact com.cinefms.apitester\:apitester-ui\:jar\:1.3.6 from/to skjlls-oss-release (https\://infra.skjlls.com/nexus/content/repositories/releases-oss)\: /Users/rm/.m2/repository/com/cinefms/apitester/apitester-ui/1.3.6/aether-5d9cde3a-8f80-447d-b895-8a9e286205b7-apitester-ui-1.3.6.jar-in-progress (No such file or directory)
+https\://repo.maven.apache.org/maven2/.error=

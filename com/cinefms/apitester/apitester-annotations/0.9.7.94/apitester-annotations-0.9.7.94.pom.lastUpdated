@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 06 12:24:56 CST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1436156696278
+https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.error=Could not transfer artifact com.cinefms.apitester\:apitester-annotations\:pom\:0.9.7.94 from/to cinefms-apitester (https\://infra.skjlls.com/nexus/content/repositories/releases-oss/)\: java.lang.RuntimeException\: Could not generate DH keypair
+http\://repo.maven.apache.org/maven2/.error=
+http\://fg-nexus-dev.etower.pek.mcon.net/nexus/content/repositories/smp-release/.lastUpdated=1436156685800
+http\://fg-nexus-dev.etower.pek.mcon.net/nexus/content/repositories/smp-release/.error=
+https\://nexus.fairgarage.de/nexus/content/repositories/thirdparty/.error=Could not transfer artifact com.cinefms.apitester\:apitester-annotations\:pom\:0.9.7.94 from/to fg-thirdparty (https\://nexus.fairgarage.de/nexus/content/repositories/thirdparty/)\: java.lang.RuntimeException\: Could not generate DH keypair
+@default-https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.lastUpdated=1436156686328
+@default-https\://nexus.fairgarage.de/nexus/content/repositories/thirdparty/.lastUpdated=1436156685788

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jun 08 22:12:30 CST 2016
+default-https\://nexus-cn.mcon-group.com/content/repositories/fg-release-new/.lastUpdated=1465395150579
+https\://nexus-cn.mcon-group.com/content/repositories/fg-release-new/.error=Could not transfer artifact com.cinefms.dbstore\:dbstore-query-api\:pom\:0.6.77 from/to fg-release-new (https\://nexus-cn.mcon-group.com/content/repositories/fg-release-new/)\: Not authorized, ReasonPhrase\:Unauthorized.
+https\://infra.skjlls.com/nexus/content/repositories/releases-oss/.lastUpdated=1465395150777

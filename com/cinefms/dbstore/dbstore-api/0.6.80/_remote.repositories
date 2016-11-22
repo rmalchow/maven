@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 28 14:34:49 CST 2016
+dbstore-api-0.6.80-tests.jar>=
+dbstore-api-0.6.80.jar>=
+dbstore-api-0.6.80.pom>=

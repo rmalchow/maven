@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 28 14:34:48 CST 2016
+dbstore-0.6.80.pom>=
+dbstore-0.6.80-tests.jar>=
