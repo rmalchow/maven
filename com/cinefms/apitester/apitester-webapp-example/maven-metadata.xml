@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cinefms.apitester</groupId>
+  <artifactId>apitester-webapp-example</artifactId>
+  <versioning>
+    <versions>
+      <version>1.3.8-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170120072523</lastUpdated>
+  </versioning>
+</metadata>
