@@ -3,7 +3,7 @@
   <groupId>de.disk0.dbutil</groupId>
   <artifactId>dbutil-api</artifactId>
   <versioning>
-    <release>0.0.37</release>
+    <release>0.0.38</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -40,7 +40,8 @@
       <version>0.0.35</version>
       <version>0.0.36</version>
       <version>0.0.37</version>
+      <version>0.0.38</version>
     </versions>
-    <lastUpdated>20180731093316</lastUpdated>
+    <lastUpdated>20180731094530</lastUpdated>
   </versioning>
 </metadata>
