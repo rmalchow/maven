@@ -3,7 +3,7 @@
   <groupId>de.disk0.dbutil</groupId>
   <artifactId>dbutil-schema-check</artifactId>
   <versioning>
-    <release>0.0.42</release>
+    <release>0.0.43</release>
     <versions>
       <version>0.0.35</version>
       <version>0.0.36</version>
@@ -13,7 +13,8 @@
       <version>0.0.40</version>
       <version>0.0.41</version>
       <version>0.0.42</version>
+      <version>0.0.43</version>
     </versions>
-    <lastUpdated>20181107155955</lastUpdated>
+    <lastUpdated>20181108095836</lastUpdated>
   </versioning>
 </metadata>
