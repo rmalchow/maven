@@ -3,10 +3,11 @@
   <groupId>com.cinefms.dbstore</groupId>
   <artifactId>dbstore-redis</artifactId>
   <versioning>
-    <release>0.6.39</release>
+    <release>0.8.4</release>
     <versions>
       <version>0.6.39</version>
+      <version>0.8.4</version>
     </versions>
-    <lastUpdated>20161122104741</lastUpdated>
+    <lastUpdated>20190704143909</lastUpdated>
   </versioning>
 </metadata>
