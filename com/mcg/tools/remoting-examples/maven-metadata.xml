@@ -3,7 +3,7 @@
   <groupId>com.mcg.tools</groupId>
   <artifactId>remoting-examples</artifactId>
   <versioning>
-    <release>0.1.248</release>
+    <release>0.1.249</release>
     <versions>
       <version>0.1.230</version>
       <version>0.1.231</version>
@@ -24,7 +24,8 @@
       <version>0.1.246</version>
       <version>0.1.247</version>
       <version>0.1.248</version>
+      <version>0.1.249</version>
     </versions>
-    <lastUpdated>20200807151114</lastUpdated>
+    <lastUpdated>20200807152030</lastUpdated>
   </versioning>
 </metadata>
