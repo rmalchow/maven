@@ -3,7 +3,7 @@
   <groupId>de.disk0.dbutil</groupId>
   <artifactId>dbutil-impl</artifactId>
   <versioning>
-    <release>0.2.0</release>
+    <release>0.2.1</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -80,7 +80,8 @@
       <version>0.0.75</version>
       <version>0.0.76</version>
       <version>0.2.0</version>
+      <version>0.2.1</version>
     </versions>
-    <lastUpdated>20230103112455</lastUpdated>
+    <lastUpdated>20230103125600</lastUpdated>
   </versioning>
 </metadata>
